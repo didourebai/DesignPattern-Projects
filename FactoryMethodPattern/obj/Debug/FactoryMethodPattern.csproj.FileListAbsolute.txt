@@ -1,0 +1,6 @@
+c:\users\hrebai\documents\visual studio 2015\Projects\DesignPattern-Projects\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+c:\users\hrebai\documents\visual studio 2015\Projects\DesignPattern-Projects\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+c:\users\hrebai\documents\visual studio 2015\Projects\DesignPattern-Projects\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+c:\users\hrebai\documents\visual studio 2015\Projects\DesignPattern-Projects\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+c:\users\hrebai\documents\visual studio 2015\Projects\DesignPattern-Projects\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
