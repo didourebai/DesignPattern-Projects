@@ -1,0 +1,6 @@
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\PrototypePattern\obj\Debug\PrototypePattern.exe
+C:\Users\HREBAI\Documents\Visual Studio 2015\Projects\DesignPattern-Projects\PrototypePattern\obj\Debug\PrototypePattern.pdb
